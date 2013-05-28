@@ -20,6 +20,5 @@
 
 		echo "<script>window.location ='../Brochure.pdf';</script>"; // Gera na pasta webroot
 
-		exit();
     
 ?>    
